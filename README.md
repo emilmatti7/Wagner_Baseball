@@ -1,2 +1,3 @@
 # Wagner_Baseball
-Exploratory Data Analysis of Wagner Baseball's team and individual statistics
+This is the link to the visualizations on the Tableau dashboard:
+https://public.tableau.com/app/profile/emil.matti/viz/WagnerBaseballTeamMetrics/IdividualMetrics
